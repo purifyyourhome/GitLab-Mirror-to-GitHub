@@ -1,2 +1,0 @@
-# GitLab Mirror to GitHub
-
